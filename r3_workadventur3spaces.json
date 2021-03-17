@@ -69,21 +69,8 @@
  "tilesets":[
         {
          "columns":8,
-         "firstgid":1,
-         "image":"..\/devlol-vspace-workadv\/wegweiser.png",
-         "imageheight":256,
-         "imagewidth":256,
-         "margin":0,
-         "name":"devlol",
-         "spacing":0,
-         "tilecount":64,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":8,
          "firstgid":65,
-         "image":"..\/devlol-vspace-workadv\/mauern.png",
+         "image":"devlol_mauern.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -502,7 +489,7 @@
         {
          "columns":14,
          "firstgid":113,
-         "image":"..\/devlol-vspace-workadv\/treppen_neu.png",
+         "image":"devlol_treppen_neu.png",
          "imageheight":352,
          "imagewidth":448,
          "margin":0,
