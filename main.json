@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/r3_lothr.json"
+                 "value":"{<realraum>\/r3_lothr.json}"
                 }],
          "type":"tilelayer",
          "visible":true,

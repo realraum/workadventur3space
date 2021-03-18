@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/main.json#startMainDoor"
+                 "value":"{<realraum>\/main.json#startMainDoor}"
                 }],
          "type":"tilelayer",
          "visible":true,
