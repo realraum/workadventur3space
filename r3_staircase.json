@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":32,
  "infinite":false,
  "layers":[
@@ -12,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<realraum>\/r3_cx.json#start}"
+                 "value":"{<realraum>\/r3_cx.json#startFromStaircase}"
                 }],
          "type":"tilelayer",
          "visible":true,
