@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="671.99994"
+   height="544"
+   viewBox="0 0 177.79998 143.93334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="bahnhof_graz_regendach.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2388"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ffe476;stop-opacity:1;"
+         offset="0"
+         id="stop2384" />
+      <stop
+         style="stop-color:#ffe476;stop-opacity:0;"
+         offset="1"
+         id="stop2386" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient924"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#b8b8ac;stop-opacity:1;"
+         offset="0"
+         id="stop922" />
+    </linearGradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2440"
+       gradientUnits="userSpaceOnUse"
+       x="-5.3176746"
+       y="54.851578"
+       gradientTransform="matrix(0.71262252,0,0,0.71166337,-1.5281832,69.032963)">
+      <meshrow
+         id="meshrow2442">
+        <meshpatch
+           id="meshpatch2444">
+          <stop
+             path="c 82.1555,0  164.311,0  246.466,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2446" />
+          <stop
+             path="c 0,64.2209  0,128.442  0,192.663"
+             style="stop-color:#ffe476;stop-opacity:1"
+             id="stop2448" />
+          <stop
+             path="c -82.1555,0  -164.311,0  -246.466,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2450" />
+          <stop
+             path="c 0,-64.2209  0,-128.442  0,-192.663"
+             style="stop-color:#ffe476;stop-opacity:1"
+             id="stop2452" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="976.93514"
+     inkscape:cy="335.27614"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="240"
+     inkscape:window-maximized="1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(6.3976006,-104.6576)">
+    <path
+       id="path869"
+       style="fill:url(#meshgradient2440);fill-opacity:1;fill-rule:evenodd;stroke:#b8b8ac;stroke-width:2.16499996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 132.37311,146.68221 c 3.4897,-7.59239 8.26503,-6.91082 11.84998,-0.52306 7.07463,20.81169 7.48312,43.95342 -0.29829,61.53162 -3.07494,6.57796 -8.67352,7.02177 -11.84369,-0.23776 -1.36991,-20.92114 -1.02808,-40.72246 0.292,-60.7708 z m -31.90874,70.1174 c -17.712996,4.27964 -80.089391,-12.36339 -81.232164,-39.57609 5.713868,-32.63358 64.566708,-43.85572 81.708314,-39.10058 12.79272,7.35463 10.63416,28.21389 11.52298,38.52996 0.25395,13.92999 0.69835,30.2243 -11.99913,40.14671 z m 69.85552,-43.99936 c 0,0 -6.95266,-72.64466 -74.341801,-64.02005 -105.173033,13.46031 -101.277233,67.84406 -101.277233,67.84406 0,0 -3.8958,54.38377 101.277233,67.84407 67.389141,8.62462 74.341801,-64.02008 74.341801,-64.02008 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
