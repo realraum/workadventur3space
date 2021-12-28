@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<realraum>\/r3_staircase.json#startFromW2}"
+                 "value":"r3_staircase.json#startFromW2"
                 }],
          "type":"tilelayer",
          "visible":true,
