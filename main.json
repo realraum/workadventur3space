@@ -88,17 +88,6 @@
  "nextlayerid":8,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"apiUrl",
-         "type":"string",
-         "value":"{<apiUrl>}"
-        }, 
-        {
-         "name":"jitsiUrl",
-         "type":"string",
-         "value":"{<jitsiUrl>}"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
