@@ -420,7 +420,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<realraum>\/main.json#start}"
+                 "value":"main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,

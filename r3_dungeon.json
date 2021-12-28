@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<realraum>\/r3_staircase.json#startFromDungeon}"
+                 "value":"r3_staircase.json#startFromDungeon"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -70,7 +70,7 @@
          "value":"{<jitsiUrl>}"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -83,9 +83,9 @@
          "name":"gameboy",
          "properties":[
                 {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":false
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"blinkingnoise"
                 }],
          "spacing":0,
          "tilecount":6232,
@@ -56183,6 +56183,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":32
 }

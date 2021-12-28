@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":26,
  "infinite":false,
  "layers":[
@@ -49,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<realraum>\/main.json#startMainDoor}"
+                 "value":"main.json#startMainDoor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<realraum>\/r3_cx.json#start}"
+                 "value":"r3_cx.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -125,7 +118,7 @@
          "value":"{<jitsiUrl>}"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -138,9 +131,9 @@
          "name":"gameboy",
          "properties":[
                 {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":false
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"blinkingnoise"
                 }],
          "spacing":0,
          "tilecount":6232,
@@ -56238,6 +56231,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":32
 }
