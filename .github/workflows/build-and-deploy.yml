@@ -25,7 +25,7 @@ jobs:
         run: |
           curl https://aaaaaaaaaaaadventu.re/replace_slugs2.sh -o replace_slugs2.sh
           chmod +x replace_slugs2.sh
-          ./replace_slugs2.sh *.json hbf/*.json
+          ./replace_slugs2.sh *.json
 
       - name: Optimize map
         uses: thecodingmachine/map-optimizer-action@master
