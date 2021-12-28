@@ -74,6 +74,12 @@
          "id":10,
          "name":"exitBahnhof",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"bahnhof_graz.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
