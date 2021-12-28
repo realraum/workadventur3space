@@ -76,7 +76,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitUrl_disabled",
                  "type":"string",
                  "value":"bahnhof_graz.json"
                 }],
