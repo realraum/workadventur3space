@@ -240,7 +240,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/metalab\/hbf\/bahnsteig.json#start_rj_sued_2"
+                 "value":"world:\/\/Metalab\/hbf\/bahnsteig.json#start_rj_sued_2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -258,7 +258,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/metalab\/hbf\/bahnsteig.json#start_rj_sued_3"
+                 "value":"world:\/\/Metalab\/hbf\/bahnsteig.json#start_rj_sued_3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -276,7 +276,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/metalab\/hbf\/bahnsteig.json#start_rj_sued_4"
+                 "value":"world:\/\/Metalab\/hbf\/bahnsteig.json#start_rj_sued_4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -294,7 +294,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/metalab\/hbf\/bahnsteig.json#start_rj_sued_5"
+                 "value":"world:\/\/Metalab\/hbf\/bahnsteig.json#start_rj_sued_5"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -312,7 +312,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/metalab\/hbf\/bahnsteig.json#start_rj_sued_6"
+                 "value":"world:\/\/Metalab\/hbf\/bahnsteig.json#start_rj_sued_6"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -330,7 +330,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/metalab\/hbf\/bahnsteig.json#start_rj_sued_7"
+                 "value":"world:\/\/Metalab\/hbf\/bahnsteig.json#start_rj_sued_7"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -348,7 +348,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/metalab\/hbf\/bahnsteig.json#start_rj_sued_8"
+                 "value":"world:\/\/Metalab\/hbf\/bahnsteig.json#start_rj_sued_8"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -366,7 +366,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/metalab\/hbf\/bahnsteig.json#start_rj_sued_9"
+                 "value":"world:\/\/Metalab\/hbf\/bahnsteig.json#start_rj_sued_9"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1274,6 +1274,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"asphalt_tiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
