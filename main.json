@@ -20,6 +20,12 @@
          "id":11,
          "name":"startFromBahnhof",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
