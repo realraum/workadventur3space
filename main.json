@@ -76,9 +76,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl_disabled",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"bahnhof_graz.json"
+                 "value":"bahnhof_graz.json#startFromR3"
                 }],
          "type":"tilelayer",
          "visible":true,
