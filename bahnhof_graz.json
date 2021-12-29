@@ -420,7 +420,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":"main.json#startFromBahnhof"
                 }],
          "type":"tilelayer",
          "visible":true,
